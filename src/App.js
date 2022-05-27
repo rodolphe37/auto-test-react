@@ -6,7 +6,9 @@ function App() {
   return (
     <div className="App">
       <CardContainer background="#fff">
-        <h1 style={{ fontSize: 18 }}>Reusable inputs Testing series</h1>
+        <h1 style={{ fontSize: 18 }}>
+          Reusable inputs Testing series tutorial
+        </h1>
         <sub>with custom hook & jest testing library</sub>
       </CardContainer>
       <br />
