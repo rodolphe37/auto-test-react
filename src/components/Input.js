@@ -19,7 +19,6 @@ const Input = (props) => {
         name={id}
         placeholder={placeholder}
         style={inputsStyle}
-        data-testid={id}
       />
     </>
   );
